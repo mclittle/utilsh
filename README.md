@@ -16,3 +16,11 @@ npm link
 ```shell
 utilsh <commmand> params
 ```
+
+# Available Commands
+
+## Create Wallet
+Creates an ethereum wallet with private key and mnemonic.
+```shell
+utilsh create-wallet
+```
